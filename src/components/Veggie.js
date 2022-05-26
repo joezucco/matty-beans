@@ -1,8 +1,9 @@
 const Veggie = () => {
-  return 
-(
-    <div>Veggie</div>
-  )
-}
+  return (
+    <div>
+      <h1>Veggie</h1>
+    </div>
+  );
+};
 
-export default Veggie
+export default Veggie;
